@@ -1,0 +1,36 @@
+.con{
+    text-align: center;
+    margin: 0 200px;
+}
+.fix{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(99, 23, 82);
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-size: xx-large;
+    text-align: center;
+}
+.rel{
+    height: 300px;
+    width:auto;
+    margin: 0 200px;
+    background-color: rgb(27, 110, 38);
+    position: relative;
+    font-size: xx-large;
+    text-align: center;
+    
+
+}
+.abs{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(165, 59, 59);
+    position: absolute;
+    font-size: xx-large;
+    text-align: center;
+    right: 150px;
+    top: 550px;
+
+}
